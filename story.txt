@@ -1,0 +1,31 @@
+1 | A cat comes your way. | 2 | 3
+2 | You feed the cat in hopes of domestication. | 4 | 5
+3 | You ignore the cat because you despise them. | 6 | 7
+4 | The cat scratches you, and you go home crying | 8 | 9
+5 | The cat has agreed to grace you with their presence, and you take him home. | 10 | 11
+6 | You go back home. | 12 | 13
+7 | You decide to go grocery shopping. | 14 | 15
+8 | You decide to take revenge on the cat. | 16 | 17
+9 | The next day you bring him another cat. | 18 | 19
+10 | You dedicate every second, minute, and hour to the cat. | 20 | 21
+11 | You become best friends with the cat. | 21 | 22
+12 | A flood suddenly appears, and you get swept by it. | 22 | -1
+13 | A tornado appears, and you get swept by it. | 23 | 24
+14 | On the way there, you trip over a rock. | 25 | 26
+15 | The cat appears. | 27 | 28
+16 | You pour water on the cat. | 29 | -1
+17 | You poke the cat. | 30 | -1
+18 | The cats merge together to take over the world. | -1 | -1
+19 | The two cats fight to the death. | -1 | -1
+20 | The cat backstabs you, and you bleed to death. | -1 | -1
+21 | You die of old age with the cat. | -1 | -1
+22 | You turn into a cat. | -1 | -1
+23 | You eat the tornado and explode, saving everyone else. | -1 | -1
+24 | You accept your fate and die. | -1 | -1
+25 | You get up and continue shopping. | -1 | -1
+26 | You melt into the ground. | -1 | -1
+27 | You scream, bursting your eardrums and killing everyone around you. | -1 | -1
+28 | You ignore the cat. | 31 | -1
+29 | You get cursed for life. | -1 | -1
+30 | You turn into salmon. | -1 | -1
+31 | The ground starts crumbling, and you fall down and die. | -1 | -1
