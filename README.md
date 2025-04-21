@@ -1,11 +1,11 @@
-#Introduction
+# Introduction
 
 **This repository contains a programming assignment from a SDSU CS210 Data Structures class.**
 
-##Overview
+## Overview
 - This programming assignment uses a decision tree represented as a binary tree to drive the storyline.
 
-##Class Descriptions
+## Class Descriptions
 1. **Node Class Template**
   - This class has the pointers to its left child and right child
   - T is the story class
